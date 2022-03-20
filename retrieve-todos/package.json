@@ -1,0 +1,10 @@
+{
+    "name": "retrieve-todos",
+    "license": "mit",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Brian M.",
+    "dependencies": {
+        "@aws-sdk/client-dynamodb": "^3.54.1"
+    }
+}
